@@ -1,0 +1,420 @@
+<p data-ke-size="size8">&nbsp;</p>
+<div style="color: #444; line-height: 1.7; max-width: 800px; margin: 0 auto; font-size: 16px; font-family: 'Noto Sans KR', sans-serif; box-sizing: border-box;">
+    <div style="background-color: #f3e5f5; padding: 15px; border-radius: 8px; font-style: italic; margin-bottom: 25px; font-size: 15px; border: 1px solid #e1bee7;">
+        <strong>메타설명 제목이 들어갑니다.</strong> 독자의 호기심을 자극하고 문제 해결을 약속하는 메시지를 작성하세요. 150자 내외로 핵심 내용을 간략히 소개하세요! [cite: 1]
+    </div>
+<p data-ke-size="size16">&nbsp;</p>
+    <p style="margin-bottom: 15px;">첫 번째 도입 문단입니다. 독자의 공감을 얻을 수 있는 상황을 묘사하세요. 독자가 경험했을 법한 문제점이나 고민을 언급하고, 이 글을 통해 해결할 수 있다는 희망을 주세요. 친근한 어투를 사용하고 마지막에 이모티콘을 넣으면 더 좋습니다! 😊 [cite: 3, 4]</p>
+
+<p data-ke-size="size16">&nbsp;</p>
+
+    <h2 style="font-size: 24px; color: #6a1b9a; margin: 35px 0 15px; padding-bottom: 8px; border-bottom: 2px solid #e1bee7;"><strong>첫 번째 주요 섹션 제목 🤔</strong></h2>
+
+    <p style="margin-bottom: 15px;">첫 번째 섹션의 내용을 작성하세요. 주제에 대한 기본 개념이나 배경 설명을 포함하면 좋습니다. [cite: 5]</p>
+
+    <p style="margin-bottom: 15px;">추가 설명이나 세부 내용을 계속해서 작성하세요. 독자가 쉽게 이해할 수 있도록 전문 용어는 풀어서 설명해주세요. [cite: 6]</p>
+
+    <div style="background-color: #ede7f6; border-left: 4px solid #9575cd; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0;">
+        <strong>💡 알아두세요!</strong><br>
+        중요한 정보나 유용한 팁을 여기에 작성하세요. 독자가 꼭 기억해야 할 내용을 강조합니다. [cite: 7]
+    </div>
+<p data-ke-size="size16">&nbsp;</p>
+    <h2 style="font-size: 24px; color: #6a1b9a; margin: 35px 0 15px; padding-bottom: 8px; border-bottom: 2px solid #e1bee7;"><strong>두 번째 주요 섹션 제목 📊</strong></h2>
+
+    <p style="margin-bottom: 15px;">두 번째 섹션의 내용을 작성하세요. 이 부분에서는 더 구체적인 정보나 데이터를 제공합니다. [cite: 8]</p>
+
+    <p style="margin-bottom: 15px;">추가 설명이 필요하다면 이어서 작성하세요. <span style="background-color: #fff9c4; padding: 2px 4px; border-radius: 3px;">특별히 강조하고 싶은 내용</span>은 이렇게 하이라이트로 표시할 수 있습니다. [cite: 9]</p>
+
+    <h3 style="font-size: 20px; color: #6a1b9a; margin: 25px 0 12px;"><strong>테이블 제목 또는 소제목</strong></h3>
+
+    <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+        <thead>
+            <tr>
+                <th style="padding: 14px; text-align: left; border: 1px solid #e1bee7; background-color: #f3e5f5; font-weight: bold;">구분</th>
+                <th style="padding: 14px; text-align: left; border: 1px solid #e1bee7; background-color: #f3e5f5; font-weight: bold;">설명</th>
+                <th style="padding: 14px; text-align: left; border: 1px solid #e1bee7; background-color: #f3e5f5; font-weight: bold;">비고</th>
+                <th style="padding: 14px; text-align: left; border: 1px solid #e1bee7; background-color: #f3e5f5; font-weight: bold;">기타 정보</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="padding: 14px; text-align: left; border: 1px solid #e1bee7;">항목 1</td> [cite: 12]
+                <td style="padding: 14px; text-align: left; border: 1px solid #e1bee7;">항목 1에 대한 설명</td> [cite: 13]
+                <td style="padding: 14px; text-align: left; border: 1px solid #e1bee7;">추가 정보</td> [cite: 14]
+                <td style="padding: 14px; text-align: left; border: 1px solid #e1bee7;">기타 데이터</td> [cite: 15]
+            </tr>
+            <tr style="background-color: #fafafa;">
+                <td style="padding: 14px; text-align: left; border: 1px solid #e1bee7;">항목 2</td> [cite: 16]
+                <td style="padding: 14px; text-align: left; border: 1px solid #e1bee7;">항목 2에 대한 설명</td> [cite: 17]
+                <td style="padding: 14px; text-align: left; border: 1px solid #e1bee7;">추가 정보</td> [cite: 18]
+                <td style="padding: 14px; text-align: left; border: 1px solid #e1bee7;">기타 데이터</td> [cite: 19]
+            </tr>
+            <tr>
+                <td style="padding: 14px; text-align: left; border: 1px solid #e1bee7;">항목 3</td> [cite: 20]
+                <td style="padding: 14px; text-align: left; border: 1px solid #e1bee7;">항목 3에 대한 설명</td> [cite: 21]
+                <td style="padding: 14px; text-align: left; border: 1px solid #e1bee7;">추가 정보</td> [cite: 22]
+                <td style="padding: 14px; text-align: left; border: 1px solid #e1bee7;">기타 데이터</td> [cite: 23]
+            </tr>
+            <tr style="background-color: #fafafa;">
+                <td style="padding: 14px; text-align: left; border: 1px solid #e1bee7;">항목 4</td> [cite: 24]
+                <td style="padding: 14px; text-align: left; border: 1px solid #e1bee7;">항목 4에 대한 설명</td> [cite: 25]
+                <td style="padding: 14px; text-align: left; border: 1px solid #e1bee7;">추가 정보</td> [cite: 26]
+                <td style="padding: 14px; text-align: left; border: 1px solid #e1bee7;">기타 데이터</td> [cite: 27]
+            </tr>
+        </tbody>
+    </table>
+
+    <div style="background-color: #fffde7; border-left: 4px solid #fbc02d; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0;">
+        <strong>⚠️ 주의하세요!</strong><br>
+        주의해야 할 사항이나 경고 내용을 작성하세요. 독자가 실수하기 쉬운 부분이나 예외 사항을 언급하면 좋습니다. [cite: 28]
+    </div>
+<p data-ke-size="size16">&nbsp;</p>
+    <h2 style="font-size: 24px; color: #6a1b9a; margin: 35px 0 15px; padding-bottom: 8px; border-bottom: 2px solid #e1bee7;"><strong>세 번째 주요 섹션 제목 🧮</strong></h2>
+
+    <p style="margin-bottom: 15px;">세 번째 섹션의 내용을 작성하세요. 여기서는 실제 적용 방법이나 계산 방법 등 실용적인 정보를 제공합니다. [cite: 29]</p>
+
+    <div style="background-color: #f3e5f5; padding: 18px; border-radius: 8px; margin: 20px 0; border: 1px solid #e1bee7;">
+        <h3 style="font-size: 20px; color: #6a1b9a; margin: 0 0 12px;"><strong>📝 계산 공식 제목</strong></h3> [cite: 31]
+        <p style="margin-bottom: 0;"><strong>계산 공식 = 항목 A – 항목 B(항목 A × 비율)</strong></p>
+    </div>
+
+    <p style="margin-bottom: 15px;">예시를 통한 계산 방법을 설명하세요:</p>
+
+    <div style="background-color: #f3e5f5; padding: 18px; border-radius: 8px; margin: 20px 0; border: 1px solid #e1bee7;">
+        <p style="margin-bottom: 8px;">1) 첫 번째 단계: 값 A × 비율 = 결과 B</p> [cite: 32]
+        <p style="margin-bottom: 8px;">2) 두 번째 단계: 값 A - 결과 B = 최종 결과 C</p> [cite: 32]
+        <p style="margin-bottom: 0;">→ 최종 결론을 명시하세요.</p> [cite: 32]
+    </div>
+
+    <div style="background-color: #ede7f6; padding: 20px; border-radius: 8px; margin: 25px 0; border: 1px solid #e1bee7;">
+        <h3 style="font-size: 20px; color: #6a1b9a; margin: 0 0 15px;"><strong>🔢 계산기 또는 도구 제목</strong></h3> [cite: 34]
+        <div style="display: flex; flex-wrap: wrap; margin-bottom: 15px; align-items: center;">
+            <div style="width: 100%; md:width: 30%; font-weight: bold; margin-bottom: 5px; md:margin-bottom: 0;">첫 번째 선택:</div> [cite: 36]
+            <div style="width: 100%; md:width: 70%;">
+                <select id="optionSelect" style="width: 100%; padding: 10px; border: 1px solid #d1c4e9; border-radius: 4px;">
+                    <option value="option1">옵션 1 (간단한 설명)</option> [cite: 38]
+                    <option value="option2">옵션 2 (간단한 설명)</option> [cite: 38]
+                    <option value="option3">옵션 3 (간단한 설명)</option> [cite: 38]
+                    <option value="option4">옵션 4 (간단한 설명)</option> [cite: 39]
+                </select>
+            </div>
+        </div>
+        <div style="display: flex; flex-wrap: wrap; margin-bottom: 15px; align-items: center;">
+            <div style="width: 100%; md:width: 30%; font-weight: bold; margin-bottom: 5px; md:margin-bottom: 0;">두 번째 입력:</div> [cite: 41]
+            <div style="width: 100%; md:width: 70%;">
+                <input type="number" id="userInput" placeholder="숫자 값을 입력하세요" style="width: 100%; padding: 10px; border: 1px solid #d1c4e9; border-radius: 4px;">
+            </div>
+        </div>
+        <button onclick="calculateResult()" style="background-color: #6a1b9a; color: white; border: none; padding: 12px 20px; border-radius: 4px; cursor: pointer; font-weight: bold; font-size: 16px;">계산하기</button> [cite: 44, 45]
+        <div id="resultBox" style="margin-top: 20px; padding: 18px; border: 1px solid #d1c4e9; border-radius: 4px; display: none; background-color: #fff;">
+            <p style="margin-bottom: 10px;"><strong>결과 항목 1:</strong> <span id="result1"></span></p> [cite: 46]
+            <p style="margin-bottom: 0;"><strong>결과 항목 2:</strong> <span id="result2"></span></p> [cite: 46]
+        </div>
+    </div>
+
+    <script>
+        function calculateResult() {
+            // 여기에 계산 로직을 작성하세요
+            // 예시 코드만 제공합니다
+            const userInput = parseFloat(document.getElementById('userInput').value); [cite: 47]
+
+            if (isNaN(userInput)) {
+                alert('올바른 값을 입력해주세요.');
+                return;
+            }
+
+            document.getElementById('result1').textContent = '계산된 결과 1'; [cite: 48]
+            document.getElementById('result2').textContent = '계산된 결과 2'; [cite: 48]
+            document.getElementById('resultBox').style.display = 'block'; [cite: 48]
+        }
+    </script>
+<p data-ke-size="size16">&nbsp;</p>
+    <h2 style="font-size: 24px; color: #6a1b9a; margin: 35px 0 15px; padding-bottom: 8px; border-bottom: 2px solid #e1bee7;"><strong>네 번째 주요 섹션 제목 👩‍💼👨‍💻</strong></h2>
+
+    <p style="margin-bottom: 15px;">네 번째 섹션의 내용을 작성하세요. <span style="background-color: #fff9c4; padding: 2px 4px; border-radius: 3px;">특별히 강조하고 싶은 내용</span>은 이렇게 하이라이트로 표시하세요. 이 섹션에서는 심화 내용이나 특별한 경우를 다루는 것이 좋습니다. [cite: 50]</p>
+
+    <div style="background-color: #ede7f6; border-left: 4px solid #9575cd; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0;">
+        <strong>📌 알아두세요!</strong><br>
+        특별히 기억해야 할 중요한 정보나 팁을 작성하세요. 시각적으로 구분되어 독자의 주의를 끌 수 있는 내용을 넣으세요. [cite: 51]
+    </div>
+<p data-ke-size="size16">&nbsp;</p>
+    <h2 style="font-size: 24px; color: #6a1b9a; margin: 35px 0 15px; padding-bottom: 8px; border-bottom: 2px solid #e1bee7;"><strong>실전 예시: 구체적인 사례 제목 📚</strong></h2>
+
+    <p style="margin-bottom: 15px;">실제 사례를 통한 설명을 작성하세요. 독자가 실제 상황에 적용할 수 있도록 구체적인 예시를 제공하는 것이 좋습니다. [cite: 52]</p>
+
+    <div style="background-color: #f3e5f5; padding: 18px; border-radius: 8px; margin: 20px 0; border: 1px solid #e1bee7;">
+        <h3 style="font-size: 20px; color: #444; margin: 0 0 12px;"><strong>사례 주인공의 상황</strong></h3> [cite: 54]
+        <ul style="margin: 0 0 15px 20px; padding: 0;">
+            <li style="margin-bottom: 6px;">첫 번째 정보: 구체적인 수치나 상황을 설명하세요</li> [cite: 55]
+            <li style="margin-bottom: 0;">두 번째 정보: 추가 상세 정보를 설명하세요</li> [cite: 55]
+        </ul>
+
+        <h3 style="font-size: 20px; color: #444; margin: 18px 0 12px;"><strong>계산 과정</strong></h3> [cite: 56]
+        <p style="margin-bottom: 8px;">1) 첫 번째 단계: 계산 과정을 설명하세요</p> [cite: 56]
+        <p style="margin-bottom: 8px;">2) 두 번째 단계: 계산 과정을 설명하세요</p> [cite: 56]
+
+        <h3 style="font-size: 20px; color: #444; margin: 18px 0 12px;"><strong>최종 결과</strong></h3> [cite: 57]
+        <p style="margin-bottom: 8px;">- 결과 항목 1: 값과 설명</p> [cite: 57]
+        <p style="margin-bottom: 0;">- 결과 항목 2: 값과 설명</p> [cite: 57]
+    </div>
+
+    <p style="margin-bottom: 15px;">사례에 대한 총평이나 마무리 설명을 작성하세요. 이 사례를 통해 배울 수 있는 점을 강조하세요.</p>
+
+    <p data-ke-size="size16">&nbsp;</p>
+
+    <h2 style="font-size: 24px; color: #6a1b9a; margin: 35px 0 15px; padding-bottom: 8px; border-bottom: 2px solid #e1bee7;"><strong>마무리: 핵심 내용 요약 📝</strong></h2>
+
+   <p style="margin-bottom: 15px;">이 기사의 마무리 멘트를 남깁니다.</p>
+
+    <p style="margin-bottom: 15px;">마무리 문장과 독자의 행동을 독려하는 내용을 작성하세요. 독자의 참여를 유도하는 질문이나 댓글 요청을 넣는 것이 좋습니다. 궁금한 점은 댓글로 물어봐주세요~ 😊 [cite: 60]</p>
+
+    <div style="border-top: 1px dashed #e1bee7; margin: 30px 0;"></div>
+
+<style>
+    .single-summary-card-container {
+        font-family: 'Noto Sans KR', sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px 10px;
+        background-color: #fce4ec; /* Light purple/pinkish background for container */
+        margin: 20px 0;
+    }
+    .single-summary-card {
+        width: 100%; [cite: 62]
+        max-width: 700px; /* 카드 최대 너비 */ [cite: 62]
+        /* aspect-ratio: 16 / 9; */ /* 모바일 반응형을 위해 제거 */
+        background-color: #ffffff;
+        border-radius: 12px;
+        box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+        padding: 25px; /* Increased padding */ [cite: 62]
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+        border: 1px solid #ce93d8; /* Purple border */ [cite: 63]
+        box-sizing: border-box; /* 패딩과 테두리가 요소의 전체 너비와 높이에 포함되도록 보장 */
+        height: auto; /* 기본 높이를 자동으로 설정하여 콘텐츠에 따라 유연하게 조절 */
+        min-height: unset; /* aspect-ratio로 인한 최소 높이 제한 해제 */
+    }
+    .single-summary-card .card-header {
+        display: flex;
+        align-items: center;
+        border-bottom: 2px solid #8e24aa; /* Darker Purple border */ [cite: 63]
+        padding-bottom: 12px; [cite: 64]
+        margin-bottom: 12px; [cite: 64]
+    }
+    .single-summary-card .card-header-icon {
+        font-size: 34px; [cite: 65]
+        color: #8e24aa; /* Darker Purple icon */ [cite: 65]
+        margin-right: 14px; [cite: 66]
+    }
+    .single-summary-card .card-header h3 {
+        font-size: 26px; [cite: 67]
+        color: #8e24aa; /* Darker Purple header text */ [cite: 67]
+        margin: 0;
+        line-height: 1.3;
+        font-weight: 700; [cite: 68]
+    }
+    .single-summary-card .card-content {
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around; [cite: 69]
+        font-size: 17px; /* Increased content font size */ [cite: 70]
+        line-height: 1.65; [cite: 70]
+        color: #444; /* Main text color from this theme */ [cite: 70]
+    }
+    .single-summary-card .card-content .section {
+        margin-bottom: 10px; [cite: 71]
+    }
+    .single-summary-card .card-content strong {
+        color: #7b1fa2; /* Purple for strong text */ [cite: 72]
+        font-weight: 600; [cite: 73]
+    }
+    .single-summary-card .card-content .highlight {
+        background-color: #fff9c4; /* Yellow highlight */ [cite: 74]
+        padding: 2px 6px;
+        border-radius: 3px;
+        font-weight: bold; [cite: 75]
+    }
+    .single-summary-card .card-content .formula {
+        background-color: #f3e5f5; /* Light purple formula background */ [cite: 76]
+        padding: 6px 10px;
+        border-radius: 4px;
+        font-size: 0.9em; [cite: 77]
+        text-align: center;
+        margin-top: 5px;
+        color: #4a148c; /* Darkest purple for formula text */ [cite: 77]
+    }
+    .single-summary-card .card-footer {
+        font-size: 14px; [cite: 78]
+        color: #777;
+        text-align: center;
+        padding-top: 12px; [cite: 79]
+        border-top: 1px dashed #e1bee7; /* Light purple dashed border */ [cite: 79]
+        margin-top: auto; [cite: 80]
+    }
+
+    /* 모바일 맞춤 조정: 768px 이하 */
+    @media (max-width: 768px) {
+        .single-summary-card {
+            padding: 18px; /* 작은 화면을 위해 패딩을 약간 줄임 */
+            height: auto; /* 콘텐츠에 맞춰 높이 자동 조절 */
+            min-height: unset; /* aspect-ratio로 인한 최소 높이 제한 해제 */
+        }
+        .single-summary-card .card-header-icon {
+            font-size: 30px; /* 모바일에서 아이콘 크기 조정 */
+        }
+        .single-summary-card .card-header h3 {
+            font-size: 22px; /* 모바일에서 헤더 제목 글꼴 크기 조정 */
+        }
+        .single-summary-card .card-content {
+            font-size: 15px; /* 모바일에서 내용 글꼴 크기 조정 */
+            line-height: 1.6;
+        }
+        .single-summary-card .card-content .section {
+            margin-bottom: 8px; /* 모바일에서 섹션 간 간격 조정 */
+        }
+        .single-summary-card .card-content .formula {
+            padding: 5px 8px;
+            font-size: 0.9em;
+        }
+        .single-summary-card .card-footer {
+            font-size: 13px;
+            padding-top: 10px;
+        }
+    }
+
+    /* 모바일 맞춤 조정: 480px 이하 */
+    @media (max-width: 480px) {
+        .single-summary-card {
+            padding: 15px; [cite: 81]
+        }
+        .single-summary-card .card-header-icon {
+            font-size: 28px; [cite: 82]
+        }
+        .single-summary-card .card-header h3 {
+            font-size: 20px; [cite: 83]
+        }
+        .single-summary-card .card-content {
+            font-size: 14px; [cite: 84]
+            line-height: 1.55; [cite: 84]
+        }
+        .single-summary-card .card-content .section {
+            margin-bottom: 6px; [cite: 85]
+        }
+        .single-summary-card .card-content .formula {
+            padding: 4px 6px; [cite: 86]
+            font-size: 0.8em; [cite: 86]
+        }
+        .single-summary-card .card-footer {
+            font-size: 12px; [cite: 87]
+            padding-top: 8px; [cite: 87]
+        }
+    }
+</style>
+
+<div class="single-summary-card-container">
+    <div class="single-summary-card">
+        <div class="card-header">
+            <span class="card-header-icon">💡</span>
+            <h3>핵심 요약 제목</h3>
+        </div>
+        <div class="card-content">
+            <div class="section">
+                <strong>✨ 첫 번째 핵심:</strong> <span class="highlight">중요한 내용 강조!</span> 추가 설명이 필요하면 여기에 작성하세요. [cite: 88]
+            </div>
+            <div class="section">
+                <strong>📊 두 번째 핵심:</strong> <span class="highlight">중요한 내용 강조!</span> 추가 설명이 필요하면 여기에 작성하세요. [cite: 89]
+            </div>
+            <div class="section">
+                <strong>🧮 세 번째 핵심:</strong>
+                <div class="formula">공식이나 계산법 = A + B - C</div>
+            </div>
+            <div class="section">
+                <strong>👩‍💻 네 번째 핵심:</strong> <span class="highlight">중요한 내용 강조!</span> 추가 설명이 필요하면 여기에 작성하세요. [cite: 90, 91]
+            </div>
+        </div>
+        <div class="card-footer">
+            카드 하단에 들어갈 추가 정보나 주의사항을 작성하세요. [cite: 92]
+        </div>
+    </div>
+</div>
+
+<h2 style="font-size: 24px; color: #6a1b9a; margin: 35px 0 15px; padding-bottom: 8px; border-bottom: 2px solid #e1bee7;"><strong>자주 묻는 질문 ❓</strong></h2>
+
+    <div style="margin: 30px 0;">
+        <div style="margin-bottom: 20px; padding: 10px; background-color: #fbfbfb; border-radius: 6px;">
+            <div style="font-weight: bold; margin-bottom: 5px; color: #6a1b9a;">Q: 첫 번째 질문이 들어갑니다?</div>
+            <div style="padding-left: 15px; color: #555;">A: 첫 번째 질문에 대한 답변이 들어갑니다. 명확하고 이해하기 쉬운 설명을 제공합니다. [cite: 93]</div>
+        </div>
+
+        <div style="margin-bottom: 20px; padding: 10px; background-color: #fbfbfb; border-radius: 6px;">
+            <div style="font-weight: bold; margin-bottom: 5px; color: #6a1b9a;">Q: 두 번째 질문이 들어갑니다?</div>
+            <div style="padding-left: 15px; color: #555;">A: 두 번째 질문에 대한 답변이 들어갑니다. 필요한 경우 구체적인 예시를 포함합니다. [cite: 94]</div>
+        </div>
+
+        <div style="margin-bottom: 20px; padding: 10px; background-color: #fbfbfb; border-radius: 6px;">
+            <div style="font-weight: bold; margin-bottom: 5px; color: #6a1b9a;">Q: 세 번째 질문이 들어갑니다?</div>
+            <div style="padding-left: 15px; color: #555;">A: 세 번째 질문에 대한 답변이 들어갑니다. 독자가 자주 혼동하는 부분을 명확하게 설명합니다. [cite: 95]</div>
+        </div>
+
+        <div style="margin-bottom: 20px; padding: 10px; background-color: #fbfbfb; border-radius: 6px;">
+            <div style="font-weight: bold; margin-bottom: 5px; color: #6a1b9a;">Q: 네 번째 질문이 들어갑니다?</div>
+            <div style="padding-left: 15px; color: #555;">A: 네 번째 질문에 대한 답변이 들어갑니다. 필요한 경우 추가 정보나 예외 사항을 포함합니다. [cite: 96]</div>
+        </div>
+
+        <div style="margin-bottom: 20px; padding: 10px; background-color: #fbfbfb; border-radius: 6px;">
+            <div style="font-weight: bold; margin-bottom: 5px; color: #6a1b9a;">Q: 다섯 번째 질문이 들어갑니다?</div>
+            <div style="padding-left: 15px; color: #555;">A: 다섯 번째 질문에 대한 답변이 들어갑니다. 마지막 질문이므로 주제를 잘 마무리하는 답변을 제공합니다. [cite: 97]</div>
+        </div>
+    </div>
+
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "첫 번째 질문이 들어갑니다?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "👉 첫 번째 질문에 대한 답변이 들어갑니다. 명확하고 이해하기 쉬운 설명을 제공합니다." [cite: 99]
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "두 번째 질문이 들어갑니다?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "👉 두 번째 질문에 대한 답변이 들어갑니다. 필요한 경우 구체적인 예시를 포함합니다." [cite: 100]
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "세 번째 질문이 들어갑니다?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "👉 세 번째 질문에 대한 답변이 들어갑니다. 독자가 자주 혼동하는 부분을 명확하게 설명합니다." [cite: 101]
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "네 번째 질문이 들어갑니다?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "👉 네 번째 질문에 대한 답변이 들어갑니다. 필요한 경우 추가 정보나 예외 사항을 포함합니다." [cite: 102]
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "다섯 번째 질문이 들어갑니다?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "👉 다섯 번째 질문에 대한 답변이 들어갑니다. 마지막 질문이므로 주제를 잘 마무리하는 답변을 제공합니다." [cite: 104]
+            }
+        }
+    ]
+}
+</script>
