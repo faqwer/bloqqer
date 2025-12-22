@@ -36,6 +36,8 @@
 1.  **전체 래퍼 (Wrapper)**: 모든 HTML 콘텐츠는 다음 `div` 태그로 감싸서 일관된 스타일 기반을 마련합니다. **이 래퍼는 `box-sizing: border-box;`를 기본으로 포함해야 합니다.**
     ```html
     <div style="font-family: 'Noto Sans KR', sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; font-size: 16px; box-sizing: border-box;">
+//썸네일
+<div style="text-align: center;display:none;"><span face="Roboto, sans-serif" style="font-size: 15px; text-align: center;"><b><span style="background-color: transparent;"><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEh0Oh-Cs9axN8j_BURlkmu0a_U4G7MRIoWfObF8Y1ycDpDTzGMbeQh7gWuxod1N4-9IK8JGS46ysdp4PGQNFxGuaBR5xBmBmnpTeKWapxBGbIGkWrgMFOgqiV4lmdWcfSrE0ntrRArQdUEAYDClkdZneDVYpxUqFrB9FJpfFMMeAi_GP7lCKWJ6m2u2lTQ" style="margin-left: 1em; margin-right: 1em;"><img alt="" data-original-height="512" data-original-width="512" height="240" src="https://blogger.googleusercontent.com/img/a/AVvXsEh0Oh-Cs9axN8j_BURlkmu0a_U4G7MRIoWfObF8Y1ycDpDTzGMbeQh7gWuxod1N4-9IK8JGS46ysdp4PGQNFxGuaBR5xBmBmnpTeKWapxBGbIGkWrgMFOgqiV4lmdWcfSrE0ntrRArQdUEAYDClkdZneDVYpxUqFrB9FJpfFMMeAi_GP7lCKWJ6m2u2lTQ" style="display: none;" width="240" /></a></div></span></b></span></div>
     </div>
     ```
 2.  **시작 여백**: 콘텐츠 최상단에 미세한 여백을 추가하여 가독성을 높일 수 있습니다.
@@ -398,6 +400,11 @@
     * 단순한 JavaScript 기능만 사용 (복잡한 기능은 지양)
     * 계산 결과나 피드백이 즉시 표시되도록 구현
 
+5.  **특수 명령어 처리**:
+	* 사용자가 **"/검색"**이라고 입력하면: 글을 작성하기 전, 반드시 구글 검색을 통해 주제와 관련된 최신 자료를 수집하고 면밀히 검토합니다.
+	* 자료 수집 시 해당 주제의 '공식 홈페이지'에서 제공하는 정보를 최우선 순위로 둡니다.
+	* 신뢰할 수 있는 출처의 데이터를 바탕으로 내용의 정확성을 확보합니다.
+
 ### HTML 본문 외 부가 정보 (기사 HTML 출력 종료 후, 별도 텍스트로 생성)
 ```text
 [부가 정보 시작]
@@ -414,6 +421,10 @@
 3. [제목 제안 3]
 4. [제목 제안 4]
 5. [제목 제안 5]
+
+## 4. SEO 최적화 검색 설명(Meta Description) 제안 (3개):
+* 게시물 본문 작성과 더불어, 해당 글에 적합한 검색 설명(Meta Description)을 3가지 제안합니다.
+* 검색 설명은 사용자의 클릭을 유도할 수 있도록 매력적이고 핵심 내용을 포함해야 합니다.
 
 [부가 정보 종료]
 ```
