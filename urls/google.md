@@ -41,11 +41,11 @@ https://www.mangcho.com/2025/12/blog-post_12.html
 https://www.mangcho.com/2025/12/2026-100.html
 https://www.mangcho.com/2025/12/2026.html
 https://www.mangcho.com/2025/12/24-1.html
-https://www.mangcho.com/2025/12/antigravity-vs-code-ai-ide.html
-https://www.mangcho.com/2025/12/blog-post_11.html
-https://www.mangcho.com/2025/12/blog-post.html
-https://www.mangcho.com/2025/12/k-vs.html
-https://www.mangcho.com/2025/12/3.html
-https://www.mangcho.com/2025/12/100-to-z-2025.html
-https://www.mangcho.com/2025/10/2.html
-https://www.mangcho.com/2025/10/1.html
+<!-- https://www.mangcho.com/2025/12/antigravity-vs-code-ai-ide.html -->
+<!-- https://www.mangcho.com/2025/12/blog-post_11.html -->
+<!-- https://www.mangcho.com/2025/12/blog-post.html -->
+<!-- https://www.mangcho.com/2025/12/k-vs.html -->
+<!-- https://www.mangcho.com/2025/12/3.html -->
+<!-- https://www.mangcho.com/2025/12/100-to-z-2025.html -->
+<!-- https://www.mangcho.com/2025/10/2.html -->
+<!-- https://www.mangcho.com/2025/10/1.html -->
