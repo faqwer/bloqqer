@@ -1,3 +1,5 @@
+<!-- https://www.mangcho.com/2025/12/2.html -->
+<!-- https://www.mangcho.com/2025/12/blog-post_28.html -->
 <!-- https://www.mangcho.com/2025/12/Inout0011.html -->
 <!-- https://www.mangcho.com/2025/12/blog-post_994.html -->
 <!-- https://www.mangcho.com/2025/12/blog-post_26.html -->

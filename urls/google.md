@@ -1,3 +1,5 @@
+https://www.mangcho.com/2025/12/2.html
+https://www.mangcho.com/2025/12/blog-post_28.html
 https://www.mangcho.com/2025/12/Inout0011.html
 https://www.mangcho.com/2025/12/blog-post_994.html
 https://www.mangcho.com/2025/12/blog-post_26.html
@@ -29,18 +31,18 @@ https://www.mangcho.com/2025/12/blog-post_720.html
 https://www.mangcho.com/2025/12/blog-post_16.html
 https://www.mangcho.com/2025/12/vs-vs.html
 https://www.mangcho.com/2025/12/isa-vs-2025.html
-https://www.mangcho.com/2025/12/2025-vs.html
-https://www.mangcho.com/2025/12/4.html
-https://www.mangcho.com/2025/12/irp.html
-https://www.mangcho.com/2025/12/12.html
-https://www.mangcho.com/2025/12/blog-post_14.html
-https://www.mangcho.com/2025/12/3_01306818615.html
-https://www.mangcho.com/2025/12/vite-200.html
-https://www.mangcho.com/2025/12/webpack-vs-esbuild-100.html
-https://www.mangcho.com/2025/12/blog-post_12.html
-https://www.mangcho.com/2025/12/2026-100.html
-https://www.mangcho.com/2025/12/2026.html
-https://www.mangcho.com/2025/12/24-1.html
+<!-- https://www.mangcho.com/2025/12/2025-vs.html -->
+<!-- https://www.mangcho.com/2025/12/4.html -->
+<!-- https://www.mangcho.com/2025/12/irp.html -->
+<!-- https://www.mangcho.com/2025/12/12.html -->
+<!-- https://www.mangcho.com/2025/12/blog-post_14.html -->
+<!-- https://www.mangcho.com/2025/12/3_01306818615.html -->
+<!-- https://www.mangcho.com/2025/12/vite-200.html -->
+<!-- https://www.mangcho.com/2025/12/webpack-vs-esbuild-100.html -->
+<!-- https://www.mangcho.com/2025/12/blog-post_12.html -->
+<!-- https://www.mangcho.com/2025/12/2026-100.html -->
+<!-- https://www.mangcho.com/2025/12/2026.html -->
+<!-- https://www.mangcho.com/2025/12/24-1.html -->
 <!-- https://www.mangcho.com/2025/12/antigravity-vs-code-ai-ide.html -->
 <!-- https://www.mangcho.com/2025/12/blog-post_11.html -->
 <!-- https://www.mangcho.com/2025/12/blog-post.html -->
