@@ -1,3 +1,5 @@
+https://www.mangcho.com/2025/12/bing.html
+https://www.mangcho.com/2025/12/5.html
 https://www.mangcho.com/2025/12/blog-post_48.html
 https://www.mangcho.com/2025/12/2.html
 https://www.mangcho.com/2025/12/blog-post_28.html
