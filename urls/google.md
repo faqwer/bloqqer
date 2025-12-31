@@ -1,3 +1,5 @@
+<!-- https://www.mangcho.com/2025/12/5_01282107892.html -->
+<!-- https://www.mangcho.com/2025/12/2026-2400.html -->
 <!-- https://www.mangcho.com/2025/12/blog-post_30.html -->
 <!-- https://www.mangcho.com/2025/12/2-imf-1500.html -->
 <!-- https://www.mangcho.com/2025/12/2026-20.html -->
