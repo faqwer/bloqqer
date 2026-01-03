@@ -1,3 +1,5 @@
+https://www.mangcho.com/2026/01/2026-20.html
+https://www.mangcho.com/2026/01/2026.html
 https://www.mangcho.com/2026/01/2026-k-100.html
 https://www.mangcho.com/2026/01/d-day.html
 https://www.mangcho.com/2026/01/2026-4.html
