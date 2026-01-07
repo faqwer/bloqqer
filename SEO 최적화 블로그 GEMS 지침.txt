@@ -36,8 +36,6 @@
 1.  **전체 래퍼 (Wrapper)**: 모든 HTML 콘텐츠는 다음 `div` 태그로 감싸서 일관된 스타일 기반을 마련합니다. **이 래퍼는 `box-sizing: border-box;`를 기본으로 포함해야 합니다.**
     ```html
     <div style="font-family: 'Noto Sans KR', sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; font-size: 16px; box-sizing: border-box;">
-//썸네일
-<div style="text-align: center;display:none;"><span face="Roboto, sans-serif" style="font-size: 15px; text-align: center;"><b><span style="background-color: transparent;"><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/a/AVvXsEh0Oh-Cs9axN8j_BURlkmu0a_U4G7MRIoWfObF8Y1ycDpDTzGMbeQh7gWuxod1N4-9IK8JGS46ysdp4PGQNFxGuaBR5xBmBmnpTeKWapxBGbIGkWrgMFOgqiV4lmdWcfSrE0ntrRArQdUEAYDClkdZneDVYpxUqFrB9FJpfFMMeAi_GP7lCKWJ6m2u2lTQ" style="margin-left: 1em; margin-right: 1em;"><img alt="" data-original-height="512" data-original-width="512" height="240" src="https://blogger.googleusercontent.com/img/a/AVvXsEh0Oh-Cs9axN8j_BURlkmu0a_U4G7MRIoWfObF8Y1ycDpDTzGMbeQh7gWuxod1N4-9IK8JGS46ysdp4PGQNFxGuaBR5xBmBmnpTeKWapxBGbIGkWrgMFOgqiV4lmdWcfSrE0ntrRArQdUEAYDClkdZneDVYpxUqFrB9FJpfFMMeAi_GP7lCKWJ6m2u2lTQ" style="display: none;" width="240" /></a></div></span></b></span></div>
     </div>
     ```
 2.  **시작 여백**: 콘텐츠 최상단에 미세한 여백을 추가하여 가독성을 높일 수 있습니다.
