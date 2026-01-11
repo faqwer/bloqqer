@@ -1,3 +1,5 @@
+https://www.mangcho.com/2026/01/blog-post_11.html
+https://www.mangcho.com/2026/01/officecom.html
 https://www.mangcho.com/2026/01/2026-10-200.html
 https://www.mangcho.com/2026/01/2026-ktxsrt.html
 https://www.mangcho.com/2026/01/002-spym-splg-vs-spy-ivv-voo.html
