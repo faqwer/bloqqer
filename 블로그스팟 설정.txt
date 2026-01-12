@@ -37,6 +37,23 @@ Essential 테마 이외는 모바일도 신경
       overflow-x: hidden !important;
   }
 
+  .blog-name .Header .header-widget h1::before,
+  .blog-name .Header .header-widget h1::after {
+    content: "";
+    width: 43px;
+    height: 43px;
+    background: url("https://blogger.googleusercontent.com/img/a/AVvXsEh0Oh-Cs9axN8j_BURlkmu0a_U4G7MRIoWfObF8Y1ycDpDTzGMbeQh7gWuxod1N4-9IK8JGS46ysdp4PGQNFxGuaBR5xBmBmnpTeKWapxBGbIGkWrgMFOgqiV4lmdWcfSrE0ntrRArQdUEAYDClkdZneDVYpxUqFrB9FJpfFMMeAi_GP7lCKWJ6m2u2lTQ")
+        no-repeat 0 0 / contain;
+    vertical-align: baseline;
+    display: inline-flex;
+    flex-shrink: 0;
+  }
+  .item-view .blog-name .Header .header-widget h1::before,
+  .item-view .blog-name .Header .header-widget h1::after {
+    width: 24px;
+    height: 24px;
+  }
+
   .blog-name nav{
       width: 100% !important;
   }
