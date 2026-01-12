@@ -26,3 +26,102 @@ Essential 테마 이외는 모바일도 신경
     <meta content='??????????????????????' name='msvalidate.01'/>
     <!-- 기존 도메인 주소 인증 -->
     <meta content='??????????????????????' name='google-site-verification'/>
+
+
+    
+<!-- custom -->
+
+   /* [1] 블로그 전체 화면 가로 흔들림 방지 (페이지/문의하기 전용) */
+  html, body {
+      max-width: 100% !important;
+      overflow-x: hidden !important;
+  }
+
+  .blog-name nav{
+      width: 100% !important;
+  }
+
+  #PageList1 {
+      width: 100% !important;
+      max-width: 100vw !important;
+      overflow: hidden;
+  }
+
+  #PageList1 .overflowable-container {
+      max-height: none !important;
+      overflow: visible !important;
+  }
+
+  #PageList1 .overflowable-contents {
+      overflow-x: auto !important;
+      overflow-y: hidden !important;
+      -webkit-overflow-scrolling: touch;
+      display: block !important;
+      padding-bottom: 5px; /* 스크롤 시 하단 잘림 방지 */
+  }
+
+  #PageList1 .widget-content {
+      text-align: center;
+      padding: 15px 0;
+  }
+
+  #PageList1 ul.tabs {
+      display: inline-flex; /* 중앙 정렬을 위해 inline-flex 사용 */
+      gap: 5px;
+      padding: 0;
+      flex-wrap: nowrap !important; /* 한 줄로 강제 고정 */
+      width: max-content !important; /* 내용 길이에 맞춰 자동 확장 */
+      margin: 0 !important;
+      padding: 10px !important;
+      list-style: none !important;
+  }
+      
+  #PageList1 ul.tabs li a {
+      font-family: 'Pretendard Variable', Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, sans-serif;
+      letter-spacing: -0.5px;
+      text-transform: none;
+      transition: all 0.3s ease;
+      font-size: 14px;
+      font-weight: 500;
+      color: #666;
+      padding: 8px 16px;
+      border-radius: 20px;
+      white-space: nowrap !important;
+  }
+
+  /* 스크롤바 숨기기 및 더보기 버튼 제거 */
+  #PageList1 .overflowable-contents::-webkit-scrollbar { display: none; }
+  #PageList1 .overflow-button { display: none !important; }
+
+  #PageList1 .tabs li a:hover {
+      background-color: rgba(255, 152, 0, 0.1) !important;
+      color: #ff9800 !important;
+  }
+
+  #PageList1 .tabs li.selected a {
+      background-color: #ff9800 !important;
+      color: #ffffff !important;
+      font-weight: 700;
+  }
+
+  #PageList1 .tabs li.selected  {
+      border-bottom: none;
+  }
+
+  
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      var currentUrl = window.location.href.split(/[?#]/)[0]; // 현재 주소 (쿼리스트링 제외)
+      var menuLinks = document.querySelectorAll('#PageList1 ul li a');
+
+      menuLinks.forEach(function(link) {
+        var linkUrl = link.href.split(/[?#]/)[0];
+        
+        // 현재 주소와 메뉴 링크 주소가 같으면 부모 li에 selected 클래스 추가
+        if (currentUrl === linkUrl || currentUrl === linkUrl + '/') {
+          link.parentElement.classList.add('selected');
+        }
+      });
+    });
+  </script>
