@@ -1,3 +1,5 @@
+https://www.mangcho.com/2026/01/vs.html
+https://www.mangcho.com/2026/01/3.html
 https://www.mangcho.com/2026/01/blog-post_11.html
 https://www.mangcho.com/2026/01/officecom.html
 https://www.mangcho.com/2026/01/2026-10-200.html
