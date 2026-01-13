@@ -1,3 +1,5 @@
+https://www.mangcho.com/2026/01/2026_0182375614.html
+https://www.mangcho.com/2026/01/2026-isa.html
 https://www.mangcho.com/2026/01/vs.html
 https://www.mangcho.com/2026/01/3.html
 https://www.mangcho.com/2026/01/blog-post_11.html
