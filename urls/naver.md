@@ -1,3 +1,5 @@
+<!-- https://www.mangcho.com/2026/01/100.html -->
+<!-- https://www.mangcho.com/2026/01/100-30.html -->
 <!-- https://www.mangcho.com/2026/01/2026_0182375614.html -->
 <!-- https://www.mangcho.com/2026/01/2026-isa.html -->
 <!-- https://www.mangcho.com/2026/01/vs.html -->
