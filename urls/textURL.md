@@ -1,3 +1,5 @@
+https://www.mangcho.com/2026/01/oxalic-acid.html
+https://www.mangcho.com/2026/01/5-vs.html
 https://www.mangcho.com/2026/01/1-15.html
 https://www.mangcho.com/2026/01/11-12.html
 https://www.mangcho.com/2026/01/blog-post_291.html
