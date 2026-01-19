@@ -1,3 +1,5 @@
+<!-- https://www.mangcho.com/2026/01/ktxsrt.html -->
+<!-- https://www.mangcho.com/2026/01/2026-ktxsrt_19.html -->
 <!-- https://www.mangcho.com/2026/01/3_0417463731.html -->
 <!-- https://www.mangcho.com/2026/01/vs-2026.html -->
 <!-- https://www.mangcho.com/2026/01/oxalic-acid.html -->
