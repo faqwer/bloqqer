@@ -1,3 +1,5 @@
+<!-- https://www.mangcho.com/2026/01/10_0471163309.html -->
+<!-- https://www.mangcho.com/2026/01/blog-post_21.html -->
 <!-- https://www.mangcho.com/2026/01/blog-post_20.html -->
 <!-- https://www.mangcho.com/2026/01/46.html -->
 <!-- https://www.mangcho.com/2026/01/ktxsrt.html -->
