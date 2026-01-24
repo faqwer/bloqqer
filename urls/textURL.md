@@ -1,3 +1,5 @@
+https://www.mangcho.com/2026/01/2026-housing-rental-tax-guide.html
+https://www.mangcho.com/2026/01/2026-gift-tax-exemption-limit.html
 https://www.mangcho.com/2026/01/3_01331861617.html
 https://www.mangcho.com/2026/01/90-200.html
 https://www.mangcho.com/2026/01/vs-vs.html
