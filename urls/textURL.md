@@ -1,3 +1,5 @@
+https://www.mangcho.com/2026/01/apple-google-gemini-partnership.html
+https://www.mangcho.com/2026/01/retiree-house-sale-tax-tips.html
 https://www.mangcho.com/2026/01/2026-housing-rental-tax-guide.html
 https://www.mangcho.com/2026/01/2026-gift-tax-exemption-limit.html
 https://www.mangcho.com/2026/01/3_01331861617.html
