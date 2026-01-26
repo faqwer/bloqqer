@@ -1,3 +1,5 @@
+<!-- https://www.mangcho.com/2026/01/korea-ai-basic-act-implementation.html -->
+<!-- https://www.mangcho.com/2026/01/2026-isa-limit-increase.html -->
 <!-- https://www.mangcho.com/2026/01/apple-google-gemini-partnership.html -->
 <!-- https://www.mangcho.com/2026/01/retiree-house-sale-tax-tips.html -->
 <!-- https://www.mangcho.com/2026/01/2026-housing-rental-tax-guide.html -->
