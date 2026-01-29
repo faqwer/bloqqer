@@ -1,3 +1,5 @@
+<!-- https://www.mangcho.com/2026/01/instagram-dm-trend-shift.html -->
+<!-- https://www.mangcho.com/2026/01/samsung-wallet-millipass-integration.html -->
 <!-- https://www.mangcho.com/2026/01/naver-pass-kakao-health-checkup.html -->
 <!-- https://www.mangcho.com/2026/01/meta-smart-glasses-buying-guide.html -->
 <!-- https://www.mangcho.com/2026/01/naver-electronic-health-checkup.html -->
