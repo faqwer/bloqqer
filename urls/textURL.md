@@ -1,3 +1,5 @@
+https://www.mangcho.com/2026/01/new-galaxy-ai-subscription-club.html
+https://www.mangcho.com/2026/01/jeju-hallasan-snow-mountain-trekking-tips.html
 https://www.mangcho.com/2026/01/instagram-dm-trend-shift.html
 https://www.mangcho.com/2026/01/samsung-wallet-millipass-integration.html
 https://www.mangcho.com/2026/01/naver-pass-kakao-health-checkup.html
