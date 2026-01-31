@@ -1,3 +1,5 @@
+https://www.mangcho.com/2026/01/2026-samsung-electronics-2x-leverage-etf-launch.html
+https://www.mangcho.com/2026/01/risks-of-leveraged-investment-in-bull-market.html
 https://www.mangcho.com/2026/01/new-galaxy-ai-subscription-club.html
 https://www.mangcho.com/2026/01/jeju-hallasan-snow-mountain-trekking-tips.html
 https://www.mangcho.com/2026/01/instagram-dm-trend-shift.html
