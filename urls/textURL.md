@@ -1,3 +1,5 @@
+https://www.mangcho.com/2026/01/bitcoin-price-drop-reasons-and-strategy.html
+https://www.mangcho.com/2026/01/youtube-premium-lite-korea-launch-review.html
 https://www.mangcho.com/2026/01/2026-samsung-electronics-2x-leverage-etf-launch.html
 https://www.mangcho.com/2026/01/risks-of-leveraged-investment-in-bull-market.html
 https://www.mangcho.com/2026/01/new-galaxy-ai-subscription-club.html
