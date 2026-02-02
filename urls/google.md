@@ -1,3 +1,5 @@
+<!-- https://www.mangcho.com/2026/02/reasoning-ai-price-drop-impact.html?m=1 -->
+<!-- https://www.mangcho.com/2026/01/2026-wedding-gift-money-guide-korea.html?m=1 -->
 <!-- https://www.mangcho.com/2026/01/bitcoin-price-drop-reasons-and-strategy.html?m=1 -->
 <!-- https://www.mangcho.com/2026/01/youtube-premium-lite-korea-launch-review.html?m=1 -->
 <!-- https://www.mangcho.com/2026/01/2026-samsung-electronics-2x-leverage-etf-launch.html?m=1 -->
