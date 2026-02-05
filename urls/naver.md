@@ -1,3 +1,4 @@
+<!-- https://www.mangcho.com/2026/02/new-fed-chair-impact-on-gold-silver-prices.html -->
 <!-- https://www.mangcho.com/2026/02/adobe-animate-maintenance-mode-update.html -->
 <!-- https://www.mangcho.com/2026/02/google-project-genie-game-industry-impact.html -->
 <!-- https://www.mangcho.com/2026/02/end-of-adobe-animate-support-guide.html -->

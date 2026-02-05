@@ -1,3 +1,4 @@
+<!-- https://www.mangcho.com/2026/02/new-fed-chair-impact-on-gold-silver-prices.html?m=1 -->
 <!-- https://www.mangcho.com/2026/02/adobe-animate-maintenance-mode-update.html?m=1 -->
 <!-- https://www.mangcho.com/2026/02/google-project-genie-game-industry-impact.html?m=1 -->
 <!-- https://www.mangcho.com/2026/02/end-of-adobe-animate-support-guide.html?m=1 -->
@@ -93,8 +94,8 @@
 <!-- https://www.mangcho.com/2025/12/1500-vs.html?m=1 -->
 <!-- https://www.mangcho.com/2025/12/blog-post_880.html?m=1 -->
 <!-- https://www.mangcho.com/2025/12/blog-post_24.html?m=1 -->
-https://www.mangcho.com/2025/12/blog-post_23.html?m=1
-https://www.mangcho.com/2025/12/etf-isa.html?m=1
+<!-- https://www.mangcho.com/2025/12/blog-post_23.html?m=1 -->
+<!-- https://www.mangcho.com/2025/12/etf-isa.html?m=1 -->
 <!-- https://www.mangcho.com/2025/12/figma.html?m=1 -->
 https://www.mangcho.com/2025/12/12-12-31.html?m=1
 https://www.mangcho.com/2025/12/1400-etf.html?m=1
