@@ -1,3 +1,5 @@
+<!-- https://www.mangcho.com/2026/02/bitcoin-drops-below-100-million-krw-analysis.html -->
+<!-- https://www.mangcho.com/2026/02/kospi-5000-collapse-market-analysis.html -->
 <!-- https://www.mangcho.com/2026/02/new-fed-chair-impact-on-gold-silver-prices.html -->
 <!-- https://www.mangcho.com/2026/02/adobe-animate-maintenance-mode-update.html -->
 <!-- https://www.mangcho.com/2026/02/google-project-genie-game-industry-impact.html -->
