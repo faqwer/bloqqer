@@ -1,3 +1,5 @@
+https://www.mangcho.com/2026/02/samsung-electronics-stock-180000-analysis.html
+https://www.mangcho.com/2026/02/multi-homeowner-loan-extension-limit-impact.html
 https://www.mangcho.com/2026/02/single-stock-leveraged-etf-korea.html
 https://www.mangcho.com/2026/02/ai-impact-on-legal-system-2026.html
 https://www.mangcho.com/2026/02/ai-capex-investment-strategy.html
