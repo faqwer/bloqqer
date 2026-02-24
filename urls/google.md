@@ -1,3 +1,13 @@
+<!-- https://www.mangcho.com/2026/02/fix-smartphone-mirroring-quality-loss.html?m=1 -->
+<!-- https://www.mangcho.com/2026/02/android-tablet-note-app-comparison.html?m=1 -->
+<!-- https://www.mangcho.com/2026/02/android-live-caption-guide.html?m=1 -->
+<!-- https://www.mangcho.com/2026/02/android-tablet-battery-drain-fix.html?m=1 -->
+<!-- https://www.mangcho.com/2026/02/reduce-laptop-fan-noise-99-percent.html?m=1 -->
+<!-- https://www.mangcho.com/2026/02/bluetooth-earphone-pc-delay-fix.html?m=1 -->
+<!-- https://www.mangcho.com/2026/02/windows-11-taskbar-unresponsive-fix.html?m=1 -->
+<!-- https://www.mangcho.com/2026/02/dual-monitor-different-refresh-rate-fix.html?m=1 -->
+<!-- https://www.mangcho.com/2026/02/external-hard-drive-chkdsk-recovery.html?m=1 -->
+<!-- https://www.mangcho.com/2026/02/force-delete-undeletable-files.html?m=1 -->
 <!-- https://www.mangcho.com/2026/02/fine-dust-running-guidelines.html?m=1 -->
 <!-- https://www.mangcho.com/2026/02/multi-homeowner-loan-extension-ban-impact.html?m=1 -->
 <!-- https://www.mangcho.com/2026/02/highway-accident-step-by-step-guide.html?m=1 -->
