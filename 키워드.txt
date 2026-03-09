@@ -1,0 +1,5 @@
+RDS (PostgreSQL/MySQL) 'Too many connections' 에러 발생 시 커넥션 풀(Connection Pool) 튜닝 방법
+Nginx 502 Bad Gateway 및 504 Gateway Timeout 발생 시 로그 분석 및 타임아웃 설정 변경 프로세스
+로컬 LLM (Ollama 등) 구동 시 GPU VRAM 부족(Out of Memory) 에러 및 할당량 조절 팁
+GitHub Copilot (또는 Cursor AI) 서버 응답 지연 및 인증 토큰 만료 에러 강제 갱신 방법
+Git 실수 완벽 복구: git reset --hard 이후 날아간 커밋 살려내는 git reflog 100% 활용법
