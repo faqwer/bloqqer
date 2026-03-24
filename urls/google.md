@@ -1,3 +1,11 @@
+<!-- https://www.mangcho.com/2026/03/what-is-mcp-server-ai-standard-guide.html?m=1 -->
+<!-- https://www.mangcho.com/2026/03/fix-github-copilot-token-expired.html?m=1 -->
+<!-- https://www.mangcho.com/2026/03/git-reset-hard-recovery-reflog.html?m=1 -->
+<!-- https://www.mangcho.com/2026/03/fix-figma-mcp-payload-too-large.html?m=1 -->
+<!-- https://www.mangcho.com/2026/03/fix-ai-figma-design-token-mapping.html?m=1 -->
+<!-- https://www.mangcho.com/2026/03/figma-mcp-ai-models-comparison.html?m=1 -->
+<!-- https://www.mangcho.com/2026/03/fix-figma-ai-auto-layout-flexbox.html?m=1 -->
+<!-- https://www.mangcho.com/2026/03/figma-mcp-403-forbidden-error.html?m=1 -->
 <!-- https://www.mangcho.com/2026/03/aws-free-tier-billing-alarm-guide.html?m=1 -->
 <!-- https://www.mangcho.com/2026/03/npm-eresolve-dependency-error-fix.html?m=1 -->
 <!-- https://www.mangcho.com/2026/03/fix-mobile-safari-100vh-dvh.html?m=1 -->
