@@ -1,3 +1,9 @@
+<!-- https://www.mangcho.com/2026/03/mcp-vs-function-calling-rag-plugin-comparison-guide.html?m=1 -->
+<!-- https://www.mangcho.com/2026/03/slack-gmail-calendar-mcp-ai-assistant-guide.html?m=1 -->
+<!-- https://www.mangcho.com/2026/03/filesystem-mcp-server-claude-local-file-guide.html?m=1 -->
+<!-- https://www.mangcho.com/2026/03/github-mcp-server-claude-developer-productivity-guide.html?m=1 -->
+<!-- https://www.mangcho.com/2026/03/notion-mcp-server-claude-ai-automation-guide.html?m=1 -->
+<!-- https://www.mangcho.com/2026/03/claude-desktop-mcp-server-setup-guide.html?m=1 -->
 <!-- https://www.mangcho.com/2026/03/what-is-mcp-server-ai-standard-guide.html?m=1 -->
 <!-- https://www.mangcho.com/2026/03/fix-github-copilot-token-expired.html?m=1 -->
 <!-- https://www.mangcho.com/2026/03/git-reset-hard-recovery-reflog.html?m=1 -->
