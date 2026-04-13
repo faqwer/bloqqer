@@ -1,3 +1,7 @@
+<!-- https://www.mangcho.com/2026/04/figma-auto-layout-guide.html?m=1 -->
+<!-- https://www.mangcho.com/2026/04/connection-pool-tuning-rds.html?m=1 -->
+<!-- https://www.mangcho.com/2026/04/nginx-502-504-error-fix.html?m=1 -->
+<!-- https://www.mangcho.com/2026/03/ollama-vram-oom-fix-guide.html?m=1 -->
 <!-- https://www.mangcho.com/2026/03/mcp-vs-function-calling-rag-plugin-comparison-guide.html?m=1 -->
 <!-- https://www.mangcho.com/2026/03/slack-gmail-calendar-mcp-ai-assistant-guide.html?m=1 -->
 <!-- https://www.mangcho.com/2026/03/filesystem-mcp-server-claude-local-file-guide.html?m=1 -->
